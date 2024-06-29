@@ -19,6 +19,10 @@
 
 ![start](docs/start.png)
 
+## Settings screen
+
+![settings](docs/settings.png)
+
 ## Bluetooth remote control screen
 
 ![remote](docs/remote.png)
