@@ -15,9 +15,13 @@
 
 ## Build with `docker compose`
 
+### Install
+
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
-Change to [docker](docker/) directory an follow the instructions of the README document.
+### Build 
+
+Change to [docker/](docker/) directory an follow the instructions of the README.md document.
 
 # Screeshots
 
