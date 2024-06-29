@@ -1,0 +1,20 @@
+{
+  "name": "canon_ble",
+  "version": "1.0.0",
+  "description": "Bluetooth library for contolling Canon cameras",
+  "keywords": "canon, remote, control, ble, bluetooth",
+  "authors":
+  [
+    {
+      "name": "Thorsten Ludewig",
+      "email": "t.ludewig@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "alog": "1.0.0"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
