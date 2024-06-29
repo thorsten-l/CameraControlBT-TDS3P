@@ -1,6 +1,11 @@
 # CameraControlBT-TDS3P for Canon digital cameras with Bluetooth connectivity based to LILIGO® T-Display S3 Pro
 
-- Bluetooth is fully functional except for Wide and Tele Buttons. I've no Camera to check it.
+## Successfully tested cameras
+- Canon EOS M50
+- Canon EOS M6 Mark II
+- Canon EOS R100
+- Canon EOS R6 Mark II
+- Canon PowerShot G7X Mark III (incl. motor zoom)
 
 # Hardware
 
@@ -13,7 +18,9 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SquareLine Studio](https://squareline.io/) - UI Design
 
-## Build with `docker compose`
+## Alternative build with `docker compose`
+
+If you like to have a fully clean build environment you can use docker for this purpose.
 
 ### Install
 
@@ -22,6 +29,10 @@
 ### Build 
 
 Change to [docker/](docker/) directory an follow the instructions of the README.md document.
+
+# Upload Firmware
+
+`pio run -t upload`
 
 # Screeshots
 
