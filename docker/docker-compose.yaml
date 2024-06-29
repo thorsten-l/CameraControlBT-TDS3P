@@ -2,6 +2,7 @@
 services:
   camera-control-builder:
     build: .
+    image:  camera-control-builder
     container_name: camera-control-builder
     command: "/usr/local/bin/platformio run"
     volumes:
