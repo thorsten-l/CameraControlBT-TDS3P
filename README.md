@@ -13,6 +13,12 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SquareLine Studio](https://squareline.io/) - UI Design
 
+## Build with `docker compose`
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
+Change to [docker](docker/) directory an follow the instructions of the README document.
+
 # Screeshots
 
 ## Start screen
