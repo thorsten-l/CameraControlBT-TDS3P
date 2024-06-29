@@ -4,7 +4,7 @@
 
 # Hardware
 
-- [LILIGO®](https://www.lilygo.cc/products/t-display-s3)
+- [LILIGO® T-Display S3](https://www.lilygo.cc/products/t-display-s3)
 
 # Build environment
 
