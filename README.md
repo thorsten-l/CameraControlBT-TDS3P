@@ -1,12 +1,10 @@
-# CameraControlBT-TDS3 for Canon digital cameras with Bluetooth conectivity based to LILIGO T-Display S3
+# CameraControlBT-TDS3 for Canon digital cameras with Bluetooth connectivity based to LILIGO® T-Display S3
 
 - Bluetooth is fully functional except for Wide and Tele Buttons. I've no Camera to check it.
 
 # Hardware
 
-- [2432S028R - amazon.de](https://www.amazon.de/s?k=2432S028R&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3B8TU5MJVTVY4&sprefix=2432s028r%2Caps%2C125&ref=nb_sb_noss_2)
-
-- [2432S028R - aliexpress.com](https://de.aliexpress.com/w/wholesale-2432S028R.html?spm=a2g0o.home.search.0)
+- [LILIGO®](https://www.lilygo.cc/products/t-display-s3)
 
 # Build environment
 
