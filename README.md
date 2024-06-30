@@ -1,5 +1,9 @@
 # CameraControlBT-TDS3P for Canon digital cameras with Bluetooth connectivity, based to LILIGO® T-Display S3 Pro
 
+## Hint
+
+If you have "stottering" communication, use an external battery with more power.
+
 ## Successfully tested cameras
 - Canon EOS M50
 - Canon EOS M6 Mark II
