@@ -1,4 +1,4 @@
-# CameraControlBT-TDS3P for Canon digital cameras with Bluetooth connectivity, based to LILIGO® T-Display S3 Pro
+# CameraControlBT-TDS3P for Canon digital cameras with Bluetooth connectivity, based on LILIGO® T-Display S3 Pro
 
 ## Hint
 
