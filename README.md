@@ -14,6 +14,7 @@ If you have "stuttering" communication, use an external battery with more power.
 ## Hardware
 
 - [LILIGO® T-Display S3 Pro](https://www.lilygo.cc/products/t-display-s3-pro)
+- [LILIGO® T-Display S3 Pro, on Github](https://github.com/Xinyuan-LilyGO/T-Display-S3-Pro)
 
 ## Build environment
 
