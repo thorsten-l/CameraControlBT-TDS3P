@@ -2,7 +2,7 @@
 
 ## Hint
 
-If you have "stottering" communication, use an external battery with more power.
+If you have "stuttering" communication, use an external battery with more power.
 
 ### Successfully tested cameras
 - Canon EOS M50
